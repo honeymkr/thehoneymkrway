@@ -1,7 +1,7 @@
 ---
 title: Keeping the Quitters
 date: "2022-01-20T22:12:03.284Z"
-description: "Ego, first thoughts"
+description: "Even if you'd rather let them go"
 ---
 
 ## Even if you'd rather let them go
