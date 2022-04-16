@@ -5,7 +5,7 @@ description: "A simple framework to develop workplace culture."
 ---
 
 
-## How has it been going lately as a leader in todays economy? 
+## How has it been going lately as a leader in today's economy? 
 
 Everywhere I go there still seems to be an echo chamber about how it’s harder than ever to find good help, and that it’s impossible to keep up with customer demand - if you’ve got it!
 
